@@ -1,3 +1,0 @@
-         Tissue    Rep      Raw Reads           Trimmed Reads           Aligned Reads          Filtered Reads            Deduplicated   Total %
-          Liver      A     38,118,069     38,117,020 (100.0%)     33,661,101 ( 88.3%)     30,405,863 ( 90.3%)     30,405,863 (100.0%)     79.8%
-          Liver      B     44,217,626     44,216,613 (100.0%)     41,440,483 ( 93.7%)     36,817,716 ( 88.8%)     36,817,716 (100.0%)     83.3%

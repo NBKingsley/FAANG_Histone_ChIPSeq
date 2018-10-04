@@ -1,3 +1,0 @@
-         Tissue    Rep          Depth       NRF      PBC1      PBC2       NSC       RSC       JSD      SJSD      IJSD
-          Liver      A     11,445,668      0.45      0.47      2.00      1.41      1.10      0.61      0.69      0.20
-          Liver      B     11,122,126      0.42      0.44      1.93      1.38      1.18      0.64      0.71      0.20
