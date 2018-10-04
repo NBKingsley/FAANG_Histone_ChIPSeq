@@ -1,6 +1,7 @@
 #To create custom tracks on UCSC's genome browser for EquCab2, use the following address: http://genome.ucsc.edu/cgi-bin/hgCustom
+#Copy and paste the appropriate track lines below into the URL entry space on the add custom tracks webpage. This should create a track and provide it with an informative name for easier viewing. 
 
-#To add the regular bed files use the following URL's:
+#To add the regular bed files use the following track line:
 
 track name="H3K4me1_Liver" description="H3K4me1_Liver_Combined_Peaks" DataUrl=https://raw.githubusercontent.com/NBKingsley/FAANG_Histone_ChIPSeq/master/Liver/H3K4me1_Liver_Combined_Peaks.bed
 
@@ -11,7 +12,7 @@ track name="H3K27ac_Liver" description="H3K27ac_Liver_Combined_Peaks" DataUrl=ht
 track name="H3K27me3_Liver" description="H3K27me3_Liver_Combined_Peaks" DataUrl=https://raw.githubusercontent.com/NBKingsley/FAANG_Histone_ChIPSeq/master/Liver/H3K27me3_Liver_Combined_Peaks.bed
 
 
-# To add the bigBed files (very similar but have some extra attributes for easier viewing) use the following URL's:
+# To add the bigBed files (very similar but have some extra attributes for easier viewing) use the following track line:
 
 track type=bigBed name="H3K4me1_Liver" description="H3K4me1_Liver_Combined_Peaks" bigDataUrl=https://raw.githubusercontent.com/NBKingsley/FAANG_Histone_ChIPSeq/master/Liver/H3K4me1_Liver_Combined_Peaks.bb
 
