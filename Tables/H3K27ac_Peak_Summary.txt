@@ -1,2 +1,0 @@
-      Tissue           A    Cov.    FRiP           B    Cov.    FRiP    Combined    Coverage     A FRiP     B FRiP
-       Liver     104,888   2.61%  38.40%      86,727   2.11%  30.86%     108,102       2.94%     39.86%     34.52%
